@@ -2,17 +2,11 @@
 
 Este é um **site fictício** criado para fins de **aprendizagem**. O projeto foi desenvolvido com o objetivo de demonstrar a criação de um site simples utilizando HTML, CSS e práticas de design responsivo.
 
-## Vídeo de Demonstração
-
-Clique na imagem abaixo para assistir ao vídeo de demonstração:
-
-[![Assista ao vídeo](img/capa.png)](video/video.mp4)
-
+![Pagina Inicial](img/Pagina_principal.png)
 
 ## Índice
 
 - [Anna Bella - Site Fictício](#anna-bella---site-fictício)
-  - [Vídeo de Demonstração](#vídeo-de-demonstração)
   - [Índice](#índice)
   - [Descrição](#descrição)
   - [Funcionalidades](#funcionalidades)
