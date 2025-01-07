@@ -6,7 +6,8 @@ Este é um **site fictício** criado para fins de **aprendizagem**. O projeto fo
 
 Clique na imagem abaixo para assistir ao vídeo de demonstração:
 
-[![Assista ao vídeo][(img/capa.png)](video/video.mp4)
+[![Assista ao vídeo](img/capa.png)](video/video.mp4)
+
 
 ## Índice
 
@@ -45,11 +46,11 @@ Para rodar o projeto localmente, siga os seguintes passos:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/ltsilva23/Projeto AnnaBella.git
+   git clone https://github.com/ltsilva23/AnnaBella-website.git
 
 2. Navegue até o diretório do projeto:
     ```bash
-    cd Projeto AnnaBella
+    cd AnnaBella-website
 
 3. Abra o arquivo index.html no seu navegador:
    
